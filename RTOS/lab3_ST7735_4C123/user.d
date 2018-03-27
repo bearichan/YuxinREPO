@@ -1,0 +1,11 @@
+.\user.o: user.c
+.\user.o: OS.h
+.\user.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\user.o: ../inc/tm4c123gh6pm.h
+.\user.o: ST7735.h
+.\user.o: ADC.h
+.\user.o: UART.h
+.\user.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\user.o: D:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\user.o: PLL.h
+.\user.o: Timer2.h
